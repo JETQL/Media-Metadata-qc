@@ -1,4 +1,4 @@
-
+![Project Banner](https://github.com/JETQL/Media-Metadata-qc/raw/main/Media_Metadata_Banner.png)
 # Media Metadata QC and Delivery Performance Dashboard
 
 This project includes:
